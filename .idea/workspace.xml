@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd145984-224e-4ea3-adca-af00845d8242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFlask.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyFlask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +32,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.MyFlask">
-    <configuration name="234dsgfdsf" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Server" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/234dsgfdsf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="Python.只上传">
+    <configuration name="upload.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonserver/templates/upload.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="MyFlask (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="只上传" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Server" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,29 +51,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyFlask.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MyFlask (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Server" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyFlask.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/只上传.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +95,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UpLoadImage.py" />
+      <option name="SCRIPT_NAME" value="G:\Pyproject\PythonServer\只上传.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UpLoadImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_test/UpLoadImage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MyFlask" />
-        <item itemvalue="Python.MyFlask (2)" />
-        <item itemvalue="Python.MyFlask (1)" />
+        <item itemvalue="Python.只上传" />
+        <item itemvalue="JavaScript Debug.upload.html" />
         <item itemvalue="Python.UpLoadImage (1)" />
-        <item itemvalue="Python.234dsgfdsf" />
+        <item itemvalue="Python.UpLoadImage" />
+        <item itemvalue="Python.MyFlask" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +161,7 @@
       <workItem from="1586165195015" duration="2816000" />
       <workItem from="1586168024497" duration="129000" />
       <workItem from="1586168163429" duration="81000" />
+      <workItem from="1586169478721" duration="6892000" />
     </task>
     <servers />
   </component>
@@ -189,26 +169,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586168135348">
+    <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586169552907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586168135348" />
-    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1586168243776">
+    <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586169552907" />
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1586185110829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586168243776" />
-    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1586168243776">
+    <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586185110829" />
+    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1586185110829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586168243776" />
-    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1586168243776">
+    <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586185110829" />
+    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1586185110829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586168243776" />
-    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1586168243776">
+    <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586185110829" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1586185110829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586168243776" />
+    <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586185110829" />
     <state x="954" y="222" key="RollbackChangesDialog" timestamp="1586168201217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,12 +199,14 @@
     <state x="903" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586168207222" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonserver$UpLoadImage__1_.coverage" NAME="UpLoadImage (1) Coverage Results" MODIFIED="1586167991241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonserver$UpLoadImage.coverage" NAME="UpLoadImage Coverage Results" MODIFIED="1586165605782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Test" />
+    <SUITE FILE_PATH="coverage/pythonserver$UpLoadImage__1_.coverage" NAME="UpLoadImage (1) Coverage Results" MODIFIED="1586180475179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonserver$UpLoadImage.coverage" NAME="UpLoadImage Coverage Results" MODIFIED="1586171231470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_test" />
     <SUITE FILE_PATH="coverage/pythonserver$234dsgfdsf.coverage" NAME="234dsgfdsf Coverage Results" MODIFIED="1586167934385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonserver$MyFlask__3_.coverage" NAME="MyFlask (3) Coverage Results" MODIFIED="1586169491907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonserver$MyFlask__2_.coverage" NAME="MyFlask (2) Coverage Results" MODIFIED="1586168170708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonserver$01_UpLoadImage.coverage" NAME="01_UpLoadImage Coverage Results" MODIFIED="1586167593185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Test" />
     <SUITE FILE_PATH="coverage/pythonserver$MyFlask__1_.coverage" NAME="MyFlask (1) Coverage Results" MODIFIED="1586168119951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonserver$MyFlask.coverage" NAME="MyFlask Coverage Results" MODIFIED="1586168231074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonserver$MyFlask.coverage" NAME="MyFlask Coverage Results" MODIFIED="1586170717271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonserver$.coverage" NAME="只上传 Coverage Results" MODIFIED="1586181682034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
