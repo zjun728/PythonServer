@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd145984-224e-4ea3-adca-af00845d8242" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/只上传.py" beforeDir="false" afterPath="$PROJECT_DIR$/uploadImage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +34,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlaskServer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.uploadImage">
+  <component name="RunManager" selected="Python.pacong">
     <configuration name="upload.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonserver/templates/upload.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -84,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UpLoadImage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pacong" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Server" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\Pyproject\PythonServer\uploadImage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pacong" />
         <item itemvalue="Python.uploadImage" />
         <item itemvalue="Python.只上传 (1)" />
         <item itemvalue="Python.只上传" />
         <item itemvalue="JavaScript Debug.upload.html" />
-        <item itemvalue="Python.UpLoadImage (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +167,7 @@
       <workItem from="1586168163429" duration="81000" />
       <workItem from="1586169478721" duration="6892000" />
       <workItem from="1586185166709" duration="113000" />
+      <workItem from="1586248113604" duration="163000" />
     </task>
     <servers />
   </component>
@@ -172,34 +175,44 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586169552907">
+    <state x="565" y="167" width="1092" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586248213116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="565" y="167" width="1092" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248213116" />
     <state x="565" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586169552907" />
-    <state x="1012" y="367" key="FileChooserDialogImpl" timestamp="1586185192285">
+    <state x="1012" y="367" key="FileChooserDialogImpl" timestamp="1586248198167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1012" y="367" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248198167" />
     <state x="1012" y="367" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586185192285" />
-    <state width="1340" height="175" key="GridCell.Tab.0.bottom" timestamp="1586185279078">
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom" timestamp="1586248275818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248275818" />
     <state width="1340" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586185279078" />
-    <state width="1340" height="175" key="GridCell.Tab.0.center" timestamp="1586185279078">
+    <state width="1340" height="230" key="GridCell.Tab.0.center" timestamp="1586248275818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248275818" />
     <state width="1340" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586185279078" />
-    <state width="1340" height="175" key="GridCell.Tab.0.left" timestamp="1586185279078">
+    <state width="1340" height="230" key="GridCell.Tab.0.left" timestamp="1586248275818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248275818" />
     <state width="1340" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586185279078" />
-    <state width="1340" height="175" key="GridCell.Tab.0.right" timestamp="1586185279078">
+    <state width="1340" height="230" key="GridCell.Tab.0.right" timestamp="1586248275818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248275818" />
     <state width="1340" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586185279078" />
     <state x="954" y="222" key="RollbackChangesDialog" timestamp="1586168201217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="954" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586168201217" />
+    <state x="453" y="324" key="SettingsEditor" timestamp="1586248204878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="324" key="SettingsEditor/0.0.1920.1040/-1600.0.1600.900@0.0.1920.1040" timestamp="1586248204878" />
     <state x="903" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586168207222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,5 +230,6 @@
     <SUITE FILE_PATH="coverage/pythonserver$MyFlask__1_.coverage" NAME="MyFlask (1) Coverage Results" MODIFIED="1586168119951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonserver$MyFlask.coverage" NAME="MyFlask Coverage Results" MODIFIED="1586170717271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonserver$.coverage" NAME="只上传 Coverage Results" MODIFIED="1586181682034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonServer$pacong.coverage" NAME="pacong Coverage Results" MODIFIED="1586248259146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
